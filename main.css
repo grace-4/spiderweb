@@ -30,6 +30,6 @@ body {
   .header {
     background-image: url('images/banner.png');
     background-size: cover;
-    background-position: center;
+    background-position: left;
     position: relative;
   }
