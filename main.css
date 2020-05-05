@@ -50,7 +50,8 @@ body {
   }
   
   .description h1 {
-    color: #6ab446;
+    color: #2ed88b;
+    font-size:90 px; 
   }
   
   .description p {
@@ -90,4 +91,3 @@ body {
     box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
     margin-bottom: 16px;
   }
-  
