@@ -95,6 +95,7 @@ body {
   .features .form-control,
   .features input {
       border-radius: 0;
+      position: center;
   }
   
   .features .btn {
