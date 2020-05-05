@@ -51,7 +51,8 @@ body {
   
   .description h1 {
     color: #2ed88b;
-    font-size:90 px; 
+    font-size:200 px; 
+    font-family:  'Sen', sans-serif;
   }
   
   .description p {
