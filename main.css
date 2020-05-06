@@ -101,13 +101,14 @@ body {
   .features .btn {
     background-color: #2ed88b;
     border: 1px solid #2ed88b;
-    color: #2ed88b;
+    color: #ffffff;
     margin-top: 20px;
   }
   
   .features .btn:hover {
     background-color: #ffffff;
     border: 1px solid #ffffff;
+    color: #2ed88b;
   }
   p {
     color:#ffffff;
