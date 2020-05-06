@@ -119,3 +119,13 @@ body {
     font-family: 'Sen', sans-serif;
     font-family: 'Lato', sans-serif;  
   }
+  .page-footer {
+    background-color: #2ed88b;
+    color: #ccc;
+    padding: 60px 0 30px;
+  }
+  
+  .footer-copyright {
+    color: #ccc;
+    padding: 40px 0;
+  }
