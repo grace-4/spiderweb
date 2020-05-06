@@ -52,7 +52,8 @@ body {
   .description h1 {
     color: #2ed88b;
     font-size:200 px; 
-    font-family:  'Sen', sans-serif;
+    font-family: 'Sen', sans-serif;
+    font-family: 'Lato', sans-serif;
   }
   
   .description p {
@@ -105,13 +106,15 @@ body {
   }
   
   .features .btn:hover {
-    background-color: #2ed88b;
-    border: 1px solid #2ed88b;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
   }
   p {
     color:#ffffff;
     font-family: 'Sen', sans-serif;
+    font-family: 'Lato', sans-serif;  
   }
   h3 {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Sen', sans-serif;
+    font-family: 'Lato', sans-serif;  
   }
