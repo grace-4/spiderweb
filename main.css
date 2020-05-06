@@ -121,11 +121,11 @@ body {
   }
   .page-footer {
     background-color: #2ed88b;
-    color: #ccc;
+    color: #000000;
     padding: 60px 0 30px;
   }
   
   .footer-copyright {
-    color: #0000;
+    color: #000000;
     padding: 40px 0;
   }
